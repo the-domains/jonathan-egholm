@@ -1,0 +1,28 @@
+name: Jonathan Egholm
+favicon: null
+layout_spectrum: 0.3163020338397473
+typography_spectrum: 0.9619374952744693
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6726689289789647
+  lightness: 0.4769247022923082
+  saturation: 0.9346141102723777
+  rhythmicContrast: 0.9841716862283647
+purpose: []
